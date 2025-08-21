@@ -1,0 +1,4 @@
+ClientID,ClientName,PriorityLevel,RequestedTaskIDs,GroupTag,AttributesJSON
+C001,Tech Corp,5,"[\"T001\",\"T002\",\"T003\"]",Enterprise,"{\"budget\": 100000, \"deadline\": \"2025-12-31\"}"
+C002,Design Studio,3,"[\"T004\",\"T005\"]",SMB,"{\"budget\": 25000, \"deadline\": \"2025-10-15\"}"
+C003,Marketing Agency,4,"[\"T006\",\"T007\",\"T008\"]",Enterprise,"{\"budget\": 75000, \"deadline\": \"2025-11-30\"}"

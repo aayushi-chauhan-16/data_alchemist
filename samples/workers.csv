@@ -1,0 +1,4 @@
+WorkerID,WorkerName,Skills,AvailableSlots,MaxLoadPerPhase,WorkerGroup,QualificationLevel
+W001,Alice Johnson,"[\"JavaScript\",\"React\",\"Node.js\"]","[1,2,3]",3,Frontend,4
+W002,Bob Smith,"[\"Python\",\"Django\",\"PostgreSQL\"]","[1,3,4]",2,Backend,5
+W003,Carol Davis,"[\"UI/UX\",\"Figma\",\"Adobe Creative\"]","[2,3]",4,Design,3

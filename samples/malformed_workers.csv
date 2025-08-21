@@ -1,0 +1,4 @@
+WorkerID,WorkerName,Skills,AvailableSlots,MaxLoadPerPhase
+W001,Alice Johnson,JavaScript React,"[1,2,3]",3
+W002,Bob Smith,"[""Python""]","invalid json",-1,,"[""UI/UX""]","[2,3]",abc
+W003,Carol Davis,"[""Design""]","[1,2]",2
